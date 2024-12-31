@@ -37,15 +37,16 @@
 
 - 🔭 I’m currently working on **Developing Solutions to Meet Future Needs**
 
-- 🌱 I’m currently learning **React Native, DataBases and CyberOps**
+- 🌱 I’m currently developing my skills in **React Native, DataBases and CyberOps**
 
-- 💬 Ask me about **HTML, CSS, React, and MySQL**
+- 💬 Ask me about **HTML, CSS, React,TypeScript, JavaScript and MySQL**
 
-- 📫 How to reach me **ddeveh1@outlook.com**
+- 📫 How to reach me **ddeveh1@outlook.com** **Whatsapp: +358 465881140**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Add social media links if any -->
+  <a class="whatsapp-btn" href="https://wa.me/358465881140"><i class="fa-brands fa-whatsapp"></i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
