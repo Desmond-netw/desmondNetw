@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Desmond Deveh</h1>
+<h4>My Values: Wellbeing, sustainability,openness , equality and commitment  </h4>
 <h3 align="center">
-  I'm a Front-End developer and Networking Engineer from Ghana, but currently living in Finland. 
+  I'm a Front-End developer and Networking Engineer living in Finland, but open to global positions in Web Development and IT field support. 
   I have a deep passion for technology and love solving problems creatively. 
   With my constantly growing skill set, I work on both the front-end and back-end of web applications, 
   allowing me to have a diverse range of technical abilities.
