@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Deveh</h1>
+<hr>
 <h4>My Values: #Wellbeing, #sustainability, #openness , #equality and #commitment  </h4>
 <h4> Mission: Is To Take Care Of The Possibles and Trust God With The Impossibles </h4>
 <hr>
