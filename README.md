@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Deveh</h1>
-<h4>My Values: Wellbeing, sustainability,openness , equality and commitment  </h4>
+<h4>My Values: #Wellbeing, #sustainability, #openness , #equality and #commitment  </h4>
 <h3 align="center">
   I'm a Front-End developer and Networking Engineer living in Finland, but open to global positions in Web Development and IT field support. 
   I have a deep passion for technology and love solving problems creatively. 
