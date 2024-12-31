@@ -46,13 +46,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Add social media links if any -->
-  <a class="whatsapp-btn" href="https://wa.me/358465881140">
+  <a class="whatsapp-btn" target="_blank" href="https://wa.me/358465881140">
      <img
-       src="url(https://icons8.it/icon/16733/whatsapp.svg)"
+       src="[https://icons8.it/icon/16733/whatsapp.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngplay.com%2Fimage%2F322512&psig=AOvVaw22-LFDXLDQux5CtNcsETLn&ust=1735724117059000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi4q77a0YoDFQAAAAAdAAAAABAE)"
        target="_blank"
        alter="whatsapp"
-       width= "50"
-       height="50"
+       width= "40"
+       height="40"
        />
   </a>
 </p>
