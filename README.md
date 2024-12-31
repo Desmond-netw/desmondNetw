@@ -48,7 +48,7 @@
   <!-- Add social media links if any -->
   <a class="whatsapp-btn" href="https://wa.me/358465881140">
      <img
-       src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fwhatsapp-icon-design_3049286.htm&psig=AOvVaw3t2sVLNiGw-mnxYOvf8tmx&ust=1735723332650000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCpx7vX0YoDFQAAAAAdAAAAABAE"
+       src="https://icons8.it/icon/16733/whatsapp"
        alter="whatsapp"
        width= "50"
        height="50"
