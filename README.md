@@ -60,12 +60,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <table> 
-      <tr>
+     <tr>
         <td>Bootstrap<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/bootstrap.png" width="100" title="BootStrap"></td>
-        <td>CSS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/css.png" width="100" title="CSS"><br></td>
-        <td>HTML<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/html.png" width="100" title="html"><br></td>
-        <td>JS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/js.png" width="100" title="ActivityPub"><br></td>
-        <td>mysql<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/msql.png" width="100" title="Adobe"><br></td>
+        <td>CSS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/css.png" width="100" title="CSS"></td>
+        <td>HTML<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/html.png" width="100" title="html"></td>
+        <td>JS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/js.png" width="100" title="ActivityPub"></td>
+        <td>mysql<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/mysql.png" width="100" title="Adobe"></td>
+      </tr>
+      <tr>
+        <td>React<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/react.png" width="100" title="BootStrap"></td>
+        <td>NodeJS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/Node.png" width="100" title="CSS"></td>
+        <td>Vitest<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/vite.png" width="100" title="CSS"></td>
+        <td>Vitest<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/psql.png" width="200" title="CSS"></td>
       </tr>
 
   </table>
