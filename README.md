@@ -73,7 +73,7 @@
         <td>PSQL<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/psql.png" width="200" title="psql"></td>
       </tr>
       <tr>
-        <td>Jira<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/jira.png" width="100" title="BootStrap"></td>
+        <td>Jira<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/jira.png" width="200" title="jira"></td>
       </tr>
 
   </table>
