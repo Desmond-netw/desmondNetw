@@ -64,14 +64,16 @@
         <td>Bootstrap<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/bootstrap.png" width="100" title="BootStrap"></td>
         <td>CSS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/css.png" width="100" title="CSS"></td>
         <td>HTML<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/html.png" width="100" title="html"></td>
-        <td>JS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/js.png" width="100" title="ActivityPub"></td>
-        <td>mysql<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/mysql.png" width="100" title="Adobe"></td>
+        <td>JS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/js.png" width="100" title="js"></td>
       </tr>
       <tr>
         <td>React<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/react.png" width="100" title="BootStrap"></td>
-        <td>NodeJS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/Node.png" width="100" title="CSS"></td>
+        <td>NodeJS<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/node.png" width="100" title="node"></td>
         <td>Vitest<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/vite.png" width="100" title="CSS"></td>
-        <td>Vitest<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/psql.png" width="200" title="CSS"></td>
+        <td>PSQL<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/psql.png" width="200" title="psql"></td>
+      </tr>
+      <tr>
+        <td>Jira<br><img src="https://github.com/Desmond-netw/desmondNetw/blob/main/icons/jira.png" width="100" title="BootStrap"></td>
       </tr>
 
   </table>
