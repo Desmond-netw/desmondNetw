@@ -3,7 +3,7 @@
 <h4>My Values: #Wellbeing, #sustainability, #openness , #equality and #commitment  </h4>
 <h4> Moto: Imagination Create Reality </h4>
 <hr>
-<h3 align="center">
+<h3 align="right">
   I'm a Full Stack developer and Networking Technician living in Finland, but open to global positions in Web Development and IT field support. 
   I have a deep passion for technology and love solving problems creatively. 
   With my constantly growing skill set, I work on both the full stack layers of web applications, 
