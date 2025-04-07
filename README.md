@@ -1,4 +1,4 @@
-##<h1 align="center">Hi 👋, I'm Desmond Deveh</h1>
+<h1 align="center">Hi 👋, I'm Desmond Deveh</h1>
 <hr>
 <h4>My Values: #Wellbeing, #sustainability, #openness , #equality and #commitment  </h4>
 <h4> Moto: Imagination Create Reality </h4>
