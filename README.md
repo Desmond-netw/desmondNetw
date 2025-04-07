@@ -10,7 +10,10 @@
   With a Bachelor of Technology in Computer Networking, I bring strong knowledge in server and infrastructure management.
   I work across the full stack, with experience in building responsive UIs, scalable backend systems, and seamless user experiences.
 </h3>
-
+  <!-- Coding GIF -->
+  <p align="center">
+    <img alt="coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  </p>
 
 
 ### 👨‍💻 About Me:
@@ -76,10 +79,7 @@
 - 🧩 I love puzzles and escape rooms
 
 
-<!-- Coding GIF -->
-<p align="center">
-  <img alt="coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</p>
+
 
 <!-- Profile views -->
 <p align="left">
