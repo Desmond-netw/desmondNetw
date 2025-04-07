@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Desmond Deveh</h1>
+##<h1 align="center">Hi 👋, I'm Desmond Deveh</h1>
 <hr>
 <h4>My Values: #Wellbeing, #sustainability, #openness , #equality and #commitment  </h4>
 <h4> Moto: Imagination Create Reality </h4>
 <hr>
 <h3 align="center">
-  I'm a Front-End developer and Networking Engineer living in Finland, but open to global positions in Web Development and IT field support. 
+  I'm a Full Stack developer and Networking Technician living in Finland, but open to global positions in Web Development and IT field support. 
   I have a deep passion for technology and love solving problems creatively. 
-  With my constantly growing skill set, I work on both the front-end and back-end of web applications, 
-  allowing me to have a diverse range of technical abilities.
+  With my constantly growing skill set, I work on both the full stack layers of web applications, 
+  allowing me to have a diverse range of technical abilities. On my journey to becoming a full-stack developer, I’ve developed a strong passion for building digital experiences that are not only functional but also visually engaging. I hold a Bachelor of Technology in Computer Networking, which has strengthened my understanding of server management and backend systems. 
 </h3>
 
 <!-- Corrected Image -->
