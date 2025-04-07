@@ -11,22 +11,7 @@
   I work across the full stack, with experience in building responsive UIs, scalable backend systems, and seamless user experiences.
 </h3>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img alt="coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</p>
 
-<!-- Profile views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=desmond-netw&label=Profile%20views&color=0e75b6&style=flat" alt="desmond-netw" />
-</p>
-
-<!-- Trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=desmond-netw" alt="desmond-netw" />
-  </a>
-</p>
 
 ### 👨‍💻 About Me:
 - 💡 Passionate about turning ideas into scalable web solutions  
@@ -89,3 +74,21 @@
 - 🎨 I sketch UI wireframes before jumping into code  
 - 🧊 I'm surviving Finnish winters one layer at a time  
 - 🧩 I love puzzles and escape rooms
+
+
+<!-- Coding GIF -->
+<p align="center">
+  <img alt="coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</p>
+
+<!-- Profile views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=desmond-netw&label=Profile%20views&color=0e75b6&style=flat" alt="desmond-netw" />
+</p>
+
+<!-- Trophy -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=desmond-netw" alt="desmond-netw" />
+  </a>
+</p>
